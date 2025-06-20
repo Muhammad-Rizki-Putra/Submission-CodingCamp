@@ -1,0 +1,8 @@
+# Menjalankan skrip
+python ./main.py
+
+# Menjalankan unit test dan test coverage
+pytest --cov=utils 
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1pDczeCHScLC3Ye_cekSFP6Fc9ZuWJA1t9VxFhskefnE/edit?usp=sharing
